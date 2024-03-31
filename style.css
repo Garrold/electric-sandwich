@@ -19,12 +19,12 @@ body {
 #footer {
     width: 700px;
     position: absolute;
-    margin: auto;
+    margin-top: 200px;
     display: block;
     align-items: center;
     align-content: center;
     justify-content: center;
-    padding-top: 200px;
+    padding-top: 20px
     
     }
 
@@ -40,10 +40,10 @@ h1 {
 
 
 #directions {
-    
+    width: 700px;
     justify-content: left;
     align-items: left;
-    display:inline-block;
+    display:block;
     margin-top: 50px
     }
 
@@ -73,6 +73,7 @@ p {
     margin-top: 10px;
     }
 
+a {color: #3d11ff;}
 
 h4 {
     display: block;
@@ -93,54 +94,23 @@ h5 {
     background-color: transparent(255, 255, 255, 0);        
     }
 
-a {color: #3d11ff;}
 
-#image1 {
-    display: inline-block;
-    justify-content: left;
-    margin-top: 50px;
-    }
 
-    .poster
-        
-        
-#image2 {
+.image1 {
     display: inline-block;
     justify-content: left;
     margin-top: 50px;
     }
         
-    .Goetiaweb
         
-#image3 {
+.image2 {
     display: inline-block;
     justify-content: left;
     margin-top: 50px;
     }
+        
 
-    .QDweb 
 
-#image4 {
-    display: inline-block;
-    justify-content: left;
-    margin-top: 50px;
-    }
-
-    .Industriesweb
-
-#image5 {
-    display: inline-block;
-    align-items: left;
-    justify-content: left;
-    margin-top: 50px;
-    }
-
-    .PHIASKYweb
-
-#image6  {
-    display: inline-block;
-    justify-content: left;
-    margin-top: 50px;
-    }
+    
 
     
