@@ -7,23 +7,23 @@ body {
     margin: auto;
     display: block;
     align-items: center;
-    align-content: left;
-    justify-content: left;
-    max-width: 750px;
+    align-content: center;
+    justify-content: center;
     padding: 25px;
-
+    margin: auto;
     background-color: black;
     background-size: cover;
+    width: 700px;
     }
 
-#footer { 
+#footer {
+    width: 700px;
     position: absolute;
-    margin:auto;
+    margin: auto;
     display: block;
     align-items: center;
     align-content: center;
     justify-content: center;
-    max-width: 750px;
     padding-top: 200px;
     
     }
@@ -37,16 +37,7 @@ h1 {
     
    }
 
-#artists{
-    
-    justify-content: left;
-    align-content: center;
-    align-items: left;
-    display: inline-block;
-    width: 500px;
-    
 
-    }
 
 #directions {
     
@@ -54,14 +45,6 @@ h1 {
     align-items: left;
     display:inline-block;
     margin-top: 50px
-    }
-
-#facebook {
-    
-    justify-content: left;
-    align-items: left;
-    display: inline-block;
-    margin-top: 50px;
     }
 
 
@@ -83,13 +66,13 @@ p {
     align-content: left;
     color: white;
     text-align: left;
-    font-family: 'Eurostile', 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Eurostile', 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: large;
     background-color: transparent(255, 255, 255, 0);        
-    padding-top: 10px;
     margin-bottom: 10px;
-    margin-top: 50px;
+    margin-top: 10px;
     }
+
 
 h4 {
     display: block;
@@ -101,19 +84,27 @@ h4 {
     background-color: transparent(255, 255, 255, 0);        
     }
 
+h5 {
+    display: block;
+    color: white;
+    text-align: center;
+    font-family: 'eurostile';
+    font-size: large;
+    background-color: transparent(255, 255, 255, 0);        
+    }
 
 a {color: #3d11ff;}
 
-.image1 {
+#image1 {
     display: inline-block;
     justify-content: left;
     margin-top: 50px;
     }
-        
+
     .poster
         
         
-.image2 {
+#image2 {
     display: inline-block;
     justify-content: left;
     margin-top: 50px;
@@ -121,29 +112,35 @@ a {color: #3d11ff;}
         
     .Goetiaweb
         
-.image3 {
+#image3 {
     display: inline-block;
     justify-content: left;
     margin-top: 50px;
     }
 
-    .QDweb
+    .QDweb 
 
-.image4 {
+#image4 {
     display: inline-block;
     justify-content: left;
     margin-top: 50px;
     }
 
-.image5 {
+    .Industriesweb
+
+#image5 {
+    display: inline-block;
+    align-items: left;
+    justify-content: left;
+    margin-top: 50px;
+    }
+
+    .PHIASKYweb
+
+#image6  {
     display: inline-block;
     justify-content: left;
     margin-top: 50px;
     }
 
-.image6  {
-    display: inline-block;
-    justify-content: left;
-    margin-top: 50px;
-    }
     
