@@ -13,11 +13,11 @@ body {
     margin: auto;
     background-color: black;
     background-size: cover;
-    width: 700px;
+    max-width: 700px;
     }
 
 #footer {
-    width: 700px;
+    max-width: 700px;
     position: absolute;
     margin-top: 50px;
     display: block;
@@ -30,7 +30,7 @@ body {
 
 
 #facebook{
-    width: 700px;
+    max-width: 700px;
     justify-content: left;
     align-items: left;
     display:block;
@@ -38,7 +38,7 @@ body {
     }
 
 #directions {
-    width: 700px;
+    max-width: 700px;
     justify-content: left;
     align-items: left;
     display:block;
@@ -46,18 +46,6 @@ body {
     margin-bottom: 200px;
     }
 
-
-h3 { 
-    
-    color: white;
-    text-align: left;
-    font-family: 'arial';
-    font-size: smaller;
-    font-weight: lighter;
-    background-color: transparent(255, 255, 255, 0);
-    margin-top: 0; 
-
-    }
 
 p {
     display: inline-block;
@@ -97,7 +85,8 @@ h5 {
 .image1 {
     display: inline-block;
     justify-content: left;
-    margin-top: 50px
+    margin-top: 50px;
+    max-width: 700px;
     }
         
         
