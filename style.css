@@ -28,10 +28,11 @@ body {
   
   /* Style the links inside the navigation bar */
   .topnav a {
-    float: left;
+    float: center;
     color: magenta;
     text-align: center;
     padding: 14px 16px;
+    margin-bottom: 200px;
     text-decoration: none;
     font-size: medium;
     font-family:'Eurostile','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
